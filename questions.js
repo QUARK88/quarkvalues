@@ -12,7 +12,7 @@ questions = [
         "question": "A widespread welfare system must exist.",
         "effect": {
             "econ": 0,
-            "dipl": -10,
+            "dipl": 10,
             "govt": 0,
             "scty": 0
         }
@@ -48,7 +48,7 @@ questions = [
         "question": "The pay someone gets must be proportional to it's production.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
+            "dipl": -10,
             "govt": 0,
             "scty": 0
         }
@@ -84,7 +84,7 @@ questions = [
         "question": "Since all arbitrary planning is bad, markets should control the economy.",
         "effect": {
             "econ": 0,
-            "dipl": -10,
+            "dipl": 10,
             "govt": 0,
             "scty": 0
         }
@@ -120,7 +120,7 @@ questions = [
         "question": "The priority is to produce what people need to be alive, before any type of luxury.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
+            "dipl": -10,
             "govt": 0,
             "scty": 0
         }
@@ -156,7 +156,7 @@ questions = [
         "question": "Allowing private property of the means of production is the path to ruin.",
         "effect": {
             "econ": 0,
-            "dipl": -10,
+            "dipl": 10,
             "govt": 0,
             "scty": 0
         }
@@ -192,7 +192,7 @@ questions = [
         "question": "National natural resources belong to whoever first possess them.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
+            "dipl": -10,
             "govt": 0,
             "scty": 0
         }
@@ -228,7 +228,7 @@ questions = [
         "question": "Maximizing pleasure and utility are the true goals.",
         "effect": {
             "econ": 0,
-            "dipl": -10,
+            "dipl": 10,
             "govt": 0,
             "scty": 0
         }
@@ -264,7 +264,7 @@ questions = [
         "question": "Everyone should contribute equally to the tax burden.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
+            "dipl": -10,
             "govt": 0,
             "scty": 0
         }
