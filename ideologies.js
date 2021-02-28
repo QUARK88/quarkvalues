@@ -1,15 +1,6 @@
 ideologies = [
     {
-        "name": "Paternalistic Conservatism",
-        "stats": {
-            "econ": 30,
-            "dipl": 75,
-            "govt": 20,
-            "scty": 55
-        }
-    },
-    {
-        "name": "Inhibition",
+        "name": "Quarkism",
         "stats": {
             "econ": 0,
             "dipl": 100,
@@ -18,48 +9,57 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Socialism",
+        "name": "Technocracy",
         "stats": {
-            "econ": 40,
-            "dipl": 0,
-            "govt": 60,
-            "scty": 20
+            "econ": 10,
+            "dipl": 65,
+            "govt": 90,
+            "scty": 50
         }
     },
     {
-        "name": "Libertarian Market Socialism",
+        "name": "Theocracy",
         "stats": {
-            "econ": 70,
-            "dipl": 5,
+            "econ": 100,
+            "dipl": 30,
+            "govt": 20,
+            "scty": 70
+        }
+    },
+    {
+        "name": "Marxism Leninism",
+        "stats": {
+            "econ": 30,
+            "dipl": 30,
+            "govt": 20,
+            "scty": 30
+        }
+    },
+    {
+        "name": "Capacitationism",
+        "stats": {
+            "econ": 15,
+            "dipl": 30,
+            "govt": 90,
+            "scty": 10
+        }
+    },
+    {
+        "name": "Nyuffdasha",
+        "stats": {
+            "econ": 10,
+            "dipl": 75,
             "govt": 65,
-            "scty": 15
-        }
-    },
-    {
-        "name": "Anarcho Capitalism",
-        "stats": {
-            "econ": 95,
-            "dipl": 100,
-            "govt": 60,
-            "scty": 0
-        }
-    },
-    {
-        "name": "Market Anarchism",
-        "stats": {
-            "econ": 80,
-            "dipl": 15,
-            "govt": 70,
-            "scty": 0
-        }
-    },
-    {
-        "name": "FALGSC",
-        "stats": {
-            "econ": 70,
-            "dipl": 5,
-            "govt": 95,
             "scty": 25
+        }
+    },
+    {
+        "name": "Angry Carrot",
+        "stats": {
+            "econ": 10,
+            "dipl": 60,
+            "govt": 75,
+            "scty": 40
         }
     },
     {
