@@ -189,7 +189,7 @@ questions = [
         }
     },
     {
-        "question": "National natural resources belong to whoever first possess them.",
+        "question": "Natural resources belong to the state.",
         "effect": {
             "econ": 0,
             "dipl": -10,
