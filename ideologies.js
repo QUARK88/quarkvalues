@@ -63,39 +63,57 @@ ideologies = [
         }
     },
     {
-        "name": "Fordism",
-        "stats": {
-            "econ": 90,
-            "dipl": 60,
-            "govt": 100,
-            "scty": 40
-        }
-    },
-    {
-        "name": "Quarkism",
-        "stats": {
-            "econ": 20,
-            "dipl": 40,
-            "govt": 70,
-            "scty": 55
-        }
-    },
-    {
-        "name": "Primitivism",
-        "stats": {
-            "econ": 10,
-            "dipl": 20,
-            "govt": 15,
-            "scty": 10
-        }
-    },
-    {
-        "name": "Capacitationism",
+        "name": "Sinj",
         "stats": {
             "econ": 100,
             "dipl": 0,
             "govt": 100,
             "scty": 0
+        }
+    },
+    {
+        "name": "Nullism",
+        "stats": {
+            "econ": 35,
+            "dipl": 75,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "name": "Anarcho Capitalism",
+        "stats": {
+            "econ": 20,
+            "dipl": 80,
+            "govt": 100,
+            "scty": 20
+        }
+    },
+    {
+        "name": "Soulism",
+        "stats": {
+            "econ": 40,
+            "dipl": 20,
+            "govt": 100,
+            "scty": 0
+        }
+    },
+    {
+        "name": "Avaritionism",
+        "stats": {
+            "econ": 80,
+            "dipl": 80,
+            "govt": 100,
+            "scty": 70
+        }
+    },
+    {
+        "name": "Kraterocracy",
+        "stats": {
+            "econ": 90,
+            "dipl": 60,
+            "govt": 0,
+            "scty": 100
         }
     }
 ];
